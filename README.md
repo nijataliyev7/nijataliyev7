@@ -15,6 +15,8 @@ Free, open-source reading games for Azerbaijani primary classrooms. The game run
 - **Privacy by design:** a child is a first name and an avatar; no third-party scripts, fonts or analytics
 - **Self-hostable:** one `docker compose` stack with Caddy, PostgreSQL, Reverb and nightly backups
 
+Help is welcome, from teachers too: see the [good first issues](https://github.com/nijataliyev7/elifba/labels/good%20first%20issue).
+
 ### Tools
 
 PHP · Laravel · TypeScript · React · Inertia · Tailwind CSS · PostgreSQL · Docker · Pest
